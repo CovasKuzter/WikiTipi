@@ -1,0 +1,85 @@
+body {
+    background-image: url(https://i.imgur.com/yuG1gCW.png);
+    
+    }
+
+.menu{
+    background-color: #0B0019;
+    margin-left:  100px;
+    margin-right: 100px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+
+}
+
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3, h4 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    margin-left: 100px;
+    max-width: 10%;
+    max-height: 10%;
+    
+}
+
+.titulo{
+    font-family: sans-serif;
+    color: white; 
+    font-size: 70px;
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align: 60px;
+}
+
+header img{
+ float: left;
+ width: 100px;
+ height: 100px; 
+}
+
+hr{
+ color: white;
+}
+
+figcaption{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-left: 50%;
+    text-align:end; 
+}
+
+.imag{ 
+    width: 40%;
+    height: 40%;
+    float: right;
+    margin-left: 10px;}
+
+
+
+@media only screen and (max-width: 600px)
